@@ -16,6 +16,7 @@ sudo apt install libxtst-dev
 ```
 
 * Make EXAPUNKS window 1600x900
+* set CRT EFFECT option to No Distortion 
 * set controls to:
   * left `s`
   * right `f`
